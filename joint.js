@@ -1,6 +1,6 @@
 /**
  * @fileoverview Functions relating creating draggable joints and paths
- * @author s.maam@kalebr.com (Sami El Maameri)
+ * @author ssmaameri@gmail.com (Sami El Maameri)
  */
 
 /**
